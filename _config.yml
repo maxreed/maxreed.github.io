@@ -23,7 +23,7 @@ repository               : "maxreed/maxreed.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "maxreed.jpg"
+  avatar           : "maxreed.png"
   name             : "P. Maximilian M. Reed"
   pronouns         : # example: "she/her"  
   bio              : "PhD in Biological Chemistry. Protein engineer and biophysicist."
